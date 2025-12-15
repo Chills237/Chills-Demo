@@ -1,1 +1,1 @@
-This is a demo app code.
+This is a demo app code I developed in a day.
